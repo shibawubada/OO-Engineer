@@ -1,2 +1,2 @@
 # OO-Engineer
-Some refactoring
+Some refactoring and design patterns, java
